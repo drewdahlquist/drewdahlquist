@@ -15,13 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Half mathematician, half engineer, & half statistician.
+Engineer at VMware working with a lot of Go, Kubernetes, & gRPC.
+Graduated Summa Cum Laude with dual Bachelor of Science degrees and a triple major in Computer Science, Mathematics, and Statistics from the University of Missouri.
 
-Triple majoring with a B.S. in Computer Science & a B.S. in Mathematics and Statistics, with a 3.95 GPA.
-Graduating May 2023.
+Experience:
+- Skilled as both a Software Engineer & Machine Learning Engineer.
+- 2+ years of experience with software engineering & machine learning.
+- Production experience building large scale backend microservices, data platforms, distributed systems, APIs, CLIs, cloud infra, etc.
+- Working "under the hood" knowledge of machine learning techniques & algorithms from linear regression to neural nets.
+- Architecture, design, and code reviews.
+- Solid research background with multiple papers & conference presentations.
 
-Software engineer & machine learner with experience using Go, Python, JavaScript, R, C++, SQL/NoSQL databases, Git, AWS/GCP, Docker, UNIX/Linux, REST APIs, CI/CD, etc. with a knack for good software design & architecture. Professional software engineering experience via internships at Garmin & VMware. Solid research background with 2 papers published & a conference presentation under my belt. Strong understanding of algorithms, data structures, software engineering, pattern recognition & machine learning, data engineering, statistics, etc. Passionate about artificial intelligence, machine learning, good software/data engineering, & applications of the Internet.
-
-Looking for May 2023 full-time opportunities related to Software Engineering, Machine Learning, Data Engineering, Backend Engineering, High-frequency Trading, Data Science, Research, etc. where I’m able to innovate, create new technologies, and continue learning after graduation.
-
-Feel free to reach out about anything!
+Skills:
+ Technologies: Git, AWS (EC2, S3, RDS, etc.), Kubernetes, PostgreSQL, MongoDB, Kafka, Docker, *nix, CUDA
+ Languages: Python, Go, C++, JavaScript, Java, R, SQL/NoSQL
+ Frameworks: PyTorch, Numpy, Flask, Node, Express, React
