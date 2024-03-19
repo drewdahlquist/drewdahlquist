@@ -15,18 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Engineer at VMware working with a lot of Go, Kubernetes, & gRPC.
-Graduated Summa Cum Laude with dual Bachelor of Science degrees and a triple major in Computer Science, Mathematics, and Statistics from the University of Missouri.
-
-Experience:
-- Skilled as both a Software Engineer & Machine Learning Engineer.
-- 2+ years of experience with software engineering & machine learning.
-- Production experience building large scale backend microservices, data platforms, distributed systems, APIs, CLIs, cloud infra, etc.
-- Working "under the hood" knowledge of machine learning techniques & algorithms from linear regression to neural nets.
-- Architecture, design, and code reviews.
-- Solid research background with multiple papers & conference presentations.
-
-Skills:
- Technologies: Git, AWS (EC2, S3, RDS, etc.), Kubernetes, PostgreSQL, MongoDB, Kafka, Docker, *nix, CUDA
- Languages: Python, Go, C++, JavaScript, Java, R, SQL/NoSQL
- Frameworks: PyTorch, Numpy, Flask, Node, Express, React
+Drew
